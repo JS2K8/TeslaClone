@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TeslaClone/static/css/main.f4d1f5aa.chunk.css",
+    "main.js": "/TeslaClone/static/js/main.a9f44cc7.chunk.js",
+    "main.js.map": "/TeslaClone/static/js/main.a9f44cc7.chunk.js.map",
+    "runtime-main.js": "/TeslaClone/static/js/runtime-main.89432809.js",
+    "runtime-main.js.map": "/TeslaClone/static/js/runtime-main.89432809.js.map",
+    "static/js/2.1c8ce014.chunk.js": "/TeslaClone/static/js/2.1c8ce014.chunk.js",
+    "static/js/2.1c8ce014.chunk.js.map": "/TeslaClone/static/js/2.1c8ce014.chunk.js.map",
+    "index.html": "/TeslaClone/index.html",
+    "static/css/main.f4d1f5aa.chunk.css.map": "/TeslaClone/static/css/main.f4d1f5aa.chunk.css.map",
+    "static/js/2.1c8ce014.chunk.js.LICENSE.txt": "/TeslaClone/static/js/2.1c8ce014.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TeslaClone/static/media/GothamBook.58fb9151.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89432809.js",
+    "static/js/2.1c8ce014.chunk.js",
+    "static/css/main.f4d1f5aa.chunk.css",
+    "static/js/main.a9f44cc7.chunk.js"
+  ]
+}

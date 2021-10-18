@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Gotham', 'Arial', sans-serif;
+    color: #393c41;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+body {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+@font-face {
+    font-family: 'Gotham';
+    src: url(./fonts/GothamBook.ttf) format('truetype');
+}
+
+@keyframes animateDown {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+
+    40% {
+        transform: translateY(5px);
+    }
+
+    60% {
+        transform: translateY(3px);
+    }
+}
+
+.react-reveal{
+    animation-fill-mode: backwards !important;
+    }
